@@ -1,0 +1,148 @@
+eeschema (2013-03-10 BZR 3992)-stable  >> Creation date: 13/06/2013 16:52:52
+#Cmp ( order = Reference )
+| C1         0.1u        
+| C2         47p         
+| C3         4.7u        
+| C4         0.1u        
+| C5         47p         
+| C6         0.1u        
+| C7         0.1u        
+| C8         47p         
+| C9         47p         
+| C10        0.1u        
+| C11        0.1u        
+| C12        47p         
+| C13        1u          
+| C14        10u         
+| C15        10u         
+| C16        100n        
+| C17        100n        
+| C18        47uF        
+| C19        10uF        
+| C20        10u         
+| CONN1      CONN_10pins 
+| CONN2      CONN_8pins  
+| CONN3      CONN_8pins  
+| CONN4      CONN_8pins  
+| CONN5      CONN_8pins  
+| CONN6      CONN_8pins  
+| D1         1N5817      
+| D2         1N5817      
+| D3         1N5817      
+| D4         1N5817      
+| D5         LED         
+| J1         Guitar_IN   
+| J2         OUTPUT      
+| JP1        JUMPER      
+| JP2        JUMPER      
+| R1         22M         
+| R2         10M         
+| R3         1K          
+| R4         100K        
+| R5         4.7K        
+| R6         100K        
+| R7         50K         
+| R8         100K        
+| R9         4.7K        
+| R10        4.7K        
+| R11        100K        
+| R12        100K        
+| R13        100K        
+| R14        100K        
+| R15        100K        
+| R16        100K        
+| R17        100K        
+| R18        100K        
+| R19        100K        
+| R20        100K        
+| R21        1K          
+| RV1        500K        
+| RV2        10K         
+| RV3        10K         
+| RV4        10K         
+| SW1        SWITCH_3PDT 
+| TP1        3V3 TP      
+| TP2        1V6 TP      
+| TP3        GND TP      
+| TP4        +5V TP      
+| TP5        -5V TP      
+| TP6        GND TP      
+| U1         TL072       
+| U2         TL072       
+| U3         TC1044      
+#End Cmp
+
+#Cmp ( order = Value )
+| 47p          C2        
+| 47p          C5        
+| 47p          C8        
+| 47p          C9        
+| 47p          C12       
+| 0.1u         C1        
+| 0.1u         C4        
+| 0.1u         C6        
+| 0.1u         C7        
+| 0.1u         C10       
+| 0.1u         C11       
+| 100n         C16       
+| 100n         C17       
+| 1u           C13       
+| 4.7u         C3        
+| 10u          C14       
+| 10u          C15       
+| 10uF         C19       
+| 10u          C20       
+| 47uF         C18       
+| CONN_10pins  CONN1     
+| CONN_8pins   CONN2     
+| CONN_8pins   CONN3     
+| CONN_8pins   CONN4     
+| CONN_8pins   CONN5     
+| CONN_8pins   CONN6     
+| 1N5817       D1        
+| 1N5817       D2        
+| 1N5817       D3        
+| 1N5817       D4        
+| LED          D5        
+| Guitar_IN    J1        
+| OUTPUT       J2        
+| JUMPER       JP1       
+| JUMPER       JP2       
+| 1K           R3        
+| 1K           R21       
+| 4.7K         R5        
+| 4.7K         R9        
+| 4.7K         R10       
+| 50K          R7        
+| 100K         R4        
+| 100K         R6        
+| 100K         R8        
+| 100K         R11       
+| 100K         R12       
+| 100K         R13       
+| 100K         R14       
+| 100K         R15       
+| 100K         R16       
+| 100K         R17       
+| 100K         R18       
+| 100K         R19       
+| 100K         R20       
+| 10M          R2        
+| 22M          R1        
+| 10K          RV2       
+| 10K          RV3       
+| 10K          RV4       
+| 500K         RV1       
+| SWITCH_3PDT  SW1       
+| 3V3 TP       TP1       
+| 1V6 TP       TP2       
+| GND TP       TP3       
+| +5V TP       TP4       
+| -5V TP       TP5       
+| GND TP       TP6       
+| TL072        U1        
+| TL072        U2        
+| TC1044       U3        
+#End Cmp
+
+#End List

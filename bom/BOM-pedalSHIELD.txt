@@ -1,0 +1,36 @@
+pedalSHIELD Bill of Materials / Part List.
+ 
+Value		Qty		References					Description					Mouser Reference
+Capacitors	 	 	 	 
+270p		5		C2 C5 C8 C9 C12					Ceramic Disc Cap.				140-50S5-271J-RC
+0.1u		6		C1 C4 C6 C7 C10 C11				Film Capacitors.				ECQ-V1H104JL
+1u		1		C13						Aluminium Electrolytic Capacitors 		ECE-A1HKA010
+4.7u		1		C3						Aluminium Electrolytic Capacitors 		ECE-A1EKA4R7
+10u		2		C14 C15						Aluminium Electrolytic Capacitors 		ECE-A1HKA100B
+47uF		1		C18						Aluminium Electrolytic Capacitors 		REA470M1CBK-0511P
+Resistors	 	 	 
+1K		2		R3 R21						Metal Film Resistors, 1% Tol.			MF1/4DC1001F
+4.7K		3		R5 R9 R10 					Metal Film Resistors, 1% Tol.			MF1/4DCT52R4701F
+50K		1		R7						Metal Film Resistors, 1% Tol.			MF1/4DCT52R4992F
+100K		12		R4 R6 R8 R11 R12 R13 R14 R15 R16 R17 R19 R20	Metal Film Resistors, 1% Tol.			MF1/4DCT52R1003F
+10M		2		R1 R2						Metal Film Resistors, 1% Tol.			RK1/4DC1005F
+500K		1		RV1						Trimmer Resistors - 9mm Single Turn		3319W-3-504
+10K		3		RV2 RV3 RV4					Alpha Potentiometers Flat 20mm			RK09L114001T
+Knobs		3		RV2, RV3, RV4					Plastic Knob with screw, Shaft:6.35mm		450-2023-GRX
+Others	 	 	 	 
+1N5817		4		D1 D2 D3 D4					Schottky Diodes Vr/20V Io/1A 			1N5817
+LED		1		D5						Through hole, blue led.				C4SMG-BJS-CQ0T0451
+SWITCH_3PDT	1		SW1						3PDT True Bypass Footswitch 			107-SF17020F-32-21RL
+SWITCH_INV	2		SW2 SW3						Toggle Switch SPDT				612-100-A1111
+Connectors	 	 	 	 
+CONN_8pins	5		CONN2 CONN3 CONN4 CONN5 CONN6  			40pins stripe 
+JACKS		2		JI, J2						Neutrix 1/4 stereo Chrome Phone Conn.		NMJ6HCD2
+IC's	 	 	 	 
+TL072		2		U1 U2						Operational amplifier.				TL072IPE4
+TC1044		1		U3						Voltage switching regulator. 			TC1044SCPA
+8PINSOCKETS	3		U1, U2, U3					8pin DIP plastic socket.			1-390261-2
+Mechanic	 	 	 	 
+pedalSHIELD PCB	1								Dual Layer 2x4” PCB with soldermask.	 
+Plastic Cover	1								3D printed plastic cover protector.	 
+
+    
